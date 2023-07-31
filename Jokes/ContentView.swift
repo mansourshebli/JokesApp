@@ -35,7 +35,6 @@ struct ContentView: View {
     @State private var showHomePage = false
     @State private var currentJokeNumber = 0
     @State private var jokesAreFinished = false
-    @State private var nothing = false
     
     
     // Animation variabled
